@@ -8,4 +8,4 @@ if [[ -e $name.ext || -L $name.ext ]] ; then
     done
     name=$name-$i
 fi
-touch -- "$name".ext
+sudo touch -- "$name".ext
