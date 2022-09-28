@@ -1,5 +1,3 @@
 {
   "postAttachCommand": ".devcontainer/post-attach-command.sh",
-  "runArgs": ["--privileged"],
-  "remoteUser": "vscode"
 }
