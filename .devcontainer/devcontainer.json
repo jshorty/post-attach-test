@@ -1,3 +1,4 @@
 {
-  "postAttachCommand": ".devcontainer/post-attach-command.sh"
+  "postAttachCommand": ".devcontainer/post-attach-command.sh",
+  "runArgs": ["--privileged"]
 }
