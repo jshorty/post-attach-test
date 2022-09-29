@@ -1,3 +1,6 @@
 {
-  "postAttachCommand": ".devcontainer/post-attach-command.sh"
+  "postAttachCommand": {
+      "hell yes": "yes",
+      "greetings": "echo Hello!"
+  },
 }
